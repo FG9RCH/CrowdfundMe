@@ -1,2 +1,2 @@
 # CrowdfundMe
-mean stack starter 
+Korra theme... cloned from indiegogo
